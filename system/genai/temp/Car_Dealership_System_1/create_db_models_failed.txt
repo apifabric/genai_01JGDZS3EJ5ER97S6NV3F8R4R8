@@ -1,0 +1,2 @@
+Error creating database from model: December 31, 2024 09:13:39
+'(' was never closed (create_db_models.py, line 203)
